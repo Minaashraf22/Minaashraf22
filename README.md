@@ -3,7 +3,9 @@
 Front-end developer (React, JavaScript) with a background in production and quality management in printing, packaging and manufacturing. I build practical web tools: ERP-style systems, POS interfaces, and clean business websites.
 
 ## What I work with
-React · JavaScript · TypeScript (factory-os, nfc-smart-tag) · Tailwind CSS (nfc-smart-tag) · Vite · HTML/CSS · Git and GitHub
+React · JavaScript · HTML/CSS
+
+The demo projects below are built with Vite and published on GitHub.
 
 ## Featured demo projects
 These are portfolio demos with fictional brands and AI-generated images.
