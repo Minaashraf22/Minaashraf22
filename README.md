@@ -14,6 +14,8 @@ These are portfolio demos with fictional brands and AI-generated images.
 |---|---|
 | [Nile & Stone, architecture studio site](https://github.com/Minaashraf22/nile-stone-architecture-site) | Bilingual EN/AR with RTL, filters, modal, responsive layout |
 | [Bean & Crumb POS](https://github.com/Minaashraf22/bean-crumb-pos) | Cart, VAT, discounts, stock control, receipts, daily report |
+| [Atelier Sahara](https://github.com/Minaashraf22/atelier-sahara-site) | Dark/light theme, project gallery with lightbox, validated inquiry form |
+| [FreshMart POS](https://github.com/Minaashraf22/freshmart-pos) | Barcode entry, weight items, VAT-inclusive receipts, hold/resume, refunds |
 
 ## Other work
 [factory-os](https://github.com/Minaashraf22/factory-os) · [nfc-smart-tag](https://github.com/Minaashraf22/nfc-smart-tag) · [Mercato](https://github.com/Minaashraf22/Mercato)
