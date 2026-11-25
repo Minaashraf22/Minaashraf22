@@ -22,6 +22,7 @@ These are portfolio demos with fictional brands and AI-generated images. Each re
 | [Northfield Goods](https://github.com/Minaashraf22/northfield-store) | Storefront, cart maths, promo code, shipping rule, checkout form (no payments) |
 | [Ledgerly Dashboard](https://github.com/Minaashraf22/ledgerly-sales-dashboard) | KPIs, SVG charts, filters, sortable table, CSV export |
 | [Riverside Clinic Booking](https://github.com/Minaashraf22/riverside-clinic-booking) | Doctor slots, form validation, cancel, device-local demo data |
+| [Boardwise Kanban](https://github.com/Minaashraf22/boardwise-kanban) | Drag and drop board, work-in-progress limit, overdue logic, filters, component-based React |
 
 ## Other work
 [factory-os](https://github.com/Minaashraf22/factory-os) · [nfc-smart-tag](https://github.com/Minaashraf22/nfc-smart-tag) · [Mercato](https://github.com/Minaashraf22/Mercato)
