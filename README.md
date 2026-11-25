@@ -8,7 +8,7 @@ React · JavaScript · HTML/CSS
 The demo projects below are built with Vite and published on GitHub.
 
 ## Featured demo projects
-These are portfolio demos with fictional brands and AI-generated images.
+These are portfolio demos with fictional brands and AI-generated images. Each repo has a README, screenshots and a short demo video.
 
 | Project | What it shows |
 |---|---|
@@ -16,6 +16,8 @@ These are portfolio demos with fictional brands and AI-generated images.
 | [Bean & Crumb POS](https://github.com/Minaashraf22/bean-crumb-pos) | Cart, VAT, discounts, stock control, receipts, daily report |
 | [Atelier Sahara](https://github.com/Minaashraf22/atelier-sahara-site) | Dark/light theme, project gallery with lightbox, validated inquiry form |
 | [FreshMart POS](https://github.com/Minaashraf22/freshmart-pos) | Barcode entry, weight items, VAT-inclusive receipts, hold/resume, refunds |
+| [Oasis Living](https://github.com/Minaashraf22/oasis-living-site) | Property filters, favourites, compare, mortgage estimate |
+| [PulseFit Booking](https://github.com/Minaashraf22/pulsefit-booking) | Class credits, waitlists, cancellations, weekly chart |
 
 ## Other work
 [factory-os](https://github.com/Minaashraf22/factory-os) · [nfc-smart-tag](https://github.com/Minaashraf22/nfc-smart-tag) · [Mercato](https://github.com/Minaashraf22/Mercato)
